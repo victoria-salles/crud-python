@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/e9544e7f-4aa7-48da-9367-15d3f998f843/resourceGroups/appsvc_linux_centralus/subscriptions/e9544e7f-4aa7-48da-9367-15d3f998f843/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/crud-python-registrations",
+  "appService.deploySubpath": "."
+}
